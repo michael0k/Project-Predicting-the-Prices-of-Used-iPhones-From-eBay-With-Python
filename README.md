@@ -2,6 +2,8 @@
 
 Regression modeling project to predict used iPhone prices using data scraped from eBay.
 
+[Link to the respective website post](https://michael0k.github.io/python/demo/iPhone-Price-Prediction-with-eBay-Data/)
+
 ### Overview
 - Goal: Clean, explore, and model eBay iPhone listing data to predict listing prices using a multi-linear regression model.
 - Stack: Python (pandas, scikit-learn), data cleaning, EDA, and regression modeling.
